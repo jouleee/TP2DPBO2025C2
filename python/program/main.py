@@ -16,7 +16,7 @@ def cetak_tabel(baju_list):
             baju.get_warna(),
             baju.get_untuk(),
             baju.get_size(),
-            baju.get_merk()
+            baju.get_merk() 
         ])
 
     # Hitung lebar maksimal tiap kolom (bandingkan header dan data)
