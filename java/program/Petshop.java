@@ -2,7 +2,7 @@
 class Petshop {
     private String id;        // ID unik dari barang
     private String nama;      // Nama barang
-    private String stok;  // stok barang (misal: Makanan, Alat Pembersih, dll.)
+    private String stok;      // stok barang
     private String harga;     // Harga barang dalam bentuk string
 
     // Konstruktor default tanpa parameter
