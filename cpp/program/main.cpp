@@ -1,5 +1,4 @@
 #include <bits/stdc++.h> // Mengimpor semua library standar
-#include <iomanip> // Tambahkan ini di bagian atas untuk setw
 #include "Baju.cpp" 
 
 using namespace std;
