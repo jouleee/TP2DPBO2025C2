@@ -168,26 +168,16 @@ int main(){
     cin >> n; // input banyaknya
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
     for(int i=0; i<n; i++){
-        cout << "Masukkan Id : ";
-        getline(cin, id);
-        cout << "Masukkan Nama : ";
-        getline(cin, nama);
-        cout << "Masukkan Stok : ";
-        getline(cin, stok);
-        cout << "Masukkan Harga : ";
-        getline(cin, harga);
-        cout << "Masukkan jenis : ";
-        getline(cin, jenis);
-        cout << "Masukkan bahan : ";
-        getline(cin, bahan);
-        cout << "Masukkan warna : ";
-        getline(cin, warna);
-        cout << "Masukkan untuk : ";
-        getline(cin, untuk);
-        cout << "Masukkan size : ";
-        getline(cin, size);
-        cout << "Masukkan merk : ";
-        getline(cin, merk);
+        cin >> id;
+        cin >> nama;
+        cin >> stok;
+        cin >> harga;
+        cin >> jenis;
+        cin >> bahan;
+        cin >> warna;
+        cin >> untuk;
+        cin >> size;
+        cin >> merk;
 
         temp.set_id(id);
         temp.set_nama(nama);

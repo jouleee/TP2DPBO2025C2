@@ -127,26 +127,16 @@ class Main{
         
         for (int i = 0; i < n; i++) {
             Baju temp = new Baju();
-            System.out.print("Masukkan ID: ");
-            temp.setId(scanner.nextLine());
-            System.out.print("Masukkan Nama: ");
-            temp.setNama(scanner.nextLine());
-            System.out.print("Masukkan Stok: ");
-            temp.setStok(scanner.nextLine());
-            System.out.print("Masukkan Harga: ");
-            temp.setHarga(scanner.nextLine());
-            System.out.print("Masukkan Jenis: ");
-            temp.setJenis(scanner.nextLine());
-            System.out.print("Masukkan Bahan: ");
-            temp.setBahan(scanner.nextLine());
-            System.out.print("Masukkan Warna: ");
-            temp.setWarna(scanner.nextLine());
-            System.out.print("Masukkan Untuk: ");
-            temp.setUntuk(scanner.nextLine());
-            System.out.print("Masukkan Size: ");
-            temp.setSize(scanner.nextLine());
-            System.out.print("Masukkan Merk: ");
-            temp.setMerk(scanner.nextLine());
+            temp.setId(scanner.next());
+            temp.setNama(scanner.next());
+            temp.setStok(scanner.next());
+            temp.setHarga(scanner.next());
+            temp.setJenis(scanner.next());
+            temp.setBahan(scanner.next());
+            temp.setWarna(scanner.next());
+            temp.setUntuk(scanner.next());
+            temp.setSize(scanner.next());
+            temp.setMerk(scanner.next());
             daftarBaju.add(temp);
             System.out.println("Data berhasil ditambahkan!\n");
         }
