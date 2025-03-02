@@ -39,6 +39,8 @@ class Aksesoris extends Petshop{
     public function setWarna($warna) {
         $this->warna = $warna;
     }
-}
 
+    public function __destruct() {
+    }  
+}
 ?>

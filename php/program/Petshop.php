@@ -67,5 +67,8 @@ class Petshop{
     public function setUrlFoto($urlfoto) {
         $this->urlfoto = $urlfoto;
     }
+
+    public function __destruct() {
+    }  
 }
 ?>

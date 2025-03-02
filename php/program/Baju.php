@@ -39,5 +39,8 @@ class Baju extends Aksesoris{
     public function setMerk($merk){
         $this->merk = $merk;
     }
+
+    public function __destruct() {
+    }    
 }
 ?>
