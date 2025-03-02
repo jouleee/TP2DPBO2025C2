@@ -51,3 +51,22 @@ Kode program tersedia dalam beberapa bahasa pemrograman:
 1. **Inisialisasi**: Program akan secara otomatis membuat 5 objek awal dari kelas `Baju` dengan data yang telah ditentukan.
 2. **Menambahkan Objek**: Pengguna dapat menambahkan objek baru dengan memasukkan data yang diperlukan.
 3. **Menampilkan Data**: Semua objek yang ada akan ditampilkan dalam bentuk tabel dinamis, yang menyesuaikan jumlah data yang tersimpan.
+
+## Dokumentasi
+
+1. **Cpp**
+
+![image](https://github.com/user-attachments/assets/d51abf65-3d5a-4dac-8aab-f8bf295029d0)
+
+2. **Java**
+
+![image](https://github.com/user-attachments/assets/fe31f6c4-7c80-47ad-acb5-d44552d3de83)
+
+3. **Python**
+
+![image](https://github.com/user-attachments/assets/e9e954e2-14e1-4a4b-9b0d-63cd379cf886)
+
+
+4. **PHP**
+
+![Menampilkan Data](https://github.com/user-attachments/assets/a0b52d52-ae3b-44ac-ae9c-fc8a4c5bfb31)
