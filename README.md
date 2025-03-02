@@ -19,7 +19,7 @@ Repositori ini berisi implementasi program berbasis Object-Oriented Programming 
 
 ### **1. PetShop (Base Class)**
 
-- `id` (int): ID produk
+- `id` (string): ID produk
 - `nama_produk` (string): Nama produk
 - `harga_produk` (string): Harga produk
 - `stok_produk` (string): Jumlah stok produk
