@@ -71,5 +71,3 @@ Kode program tersedia dalam beberapa bahasa pemrograman:
 
 ![Menampilkan Data](https://github.com/user-attachments/assets/a0b52d52-ae3b-44ac-ae9c-fc8a4c5bfb31)
 
-![A2_Zapatista_Feature-e1387571361388](https://github.com/user-attachments/assets/fc5f76ff-8546-4fb0-8da3-800f0dd24a81)
-
